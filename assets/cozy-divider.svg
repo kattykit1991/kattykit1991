@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44" role="img" aria-labelledby="title desc">
+  <title id="title">Cozy KATCODED divider</title>
+  <desc id="desc">Pink flower, turquoise sparkle, lilac sparkle, pink outline heart, turquoise sparkle.</desc>
+  <!-- Rosy Cozy palette: a tiny flower, three sparkles, and a heart. -->
+  <g fill="#E96BA7">
+    <circle cx="22" cy="13" r="5.2"/>
+    <circle cx="30.6" cy="19.3" r="5.2"/>
+    <circle cx="27.3" cy="29.1" r="5.2"/>
+    <circle cx="16.7" cy="29.1" r="5.2"/>
+    <circle cx="13.4" cy="19.3" r="5.2"/>
+  </g>
+  <circle cx="22" cy="22" r="3.7" fill="#FFF8F3"/>
+  <path d="M71 6 C74 15 77 18 86 22 C77 25 74 28 71 38 C68 28 65 25 56 22 C65 18 68 15 71 6Z" fill="#49C8C6"/>
+  <path d="M119 8 C121.5 16.5 124.5 19.5 133 22 C124.5 24.5 121.5 27.5 119 36 C116.5 27.5 113.5 24.5 105 22 C113.5 19.5 116.5 16.5 119 8Z" fill="#A878E0"/>
+  <path d="M168 34 C162.5 29.2 154 23.7 154 16.8 C154 10.8 161.9 8.5 168 15.4 C174.1 8.5 182 10.8 182 16.8 C182 23.7 173.5 29.2 168 34Z" fill="none" stroke="#E85EA2" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M218 6 C221 15 224 18 233 22 C224 25 221 28 218 38 C215 28 212 25 203 22 C212 18 215 15 218 6Z" fill="#49C8C6"/>
+</svg>
