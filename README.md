@@ -4,77 +4,76 @@
 
 Hey, I'm Kat!
 
-I'm a software engineer in the making, a curious builder, and someone who has a remarkable talent for turning a tiny *"What if...?"* into an entirely new project.
+I'm a software engineer in the making with a habit of turning tiny *"What if...?"* moments into side quests.
 
-**katc()ded** is my personal developer universe.
-
-A place for learning, experimenting, creating my own tools, and turning ideas into things that actually work.
+**katc()ded** is my personal developer universe: a place for little tools, creative code, curious experiments, and ideas that sometimes grow much bigger than expected.
 
 Sometimes organized. Sometimes chaotic. Always curious.
 
----
+<p align="center">
+  <img src="assets/cozy-divider.svg" width="210" alt="A pink flower, turquoise and lilac sparkles, a pink heart, and one more turquoise sparkle" />
+</p>
 
-## 🌸 What you'll find here
+## 🌸 Inside the pillow fort
 
-🛠️ **Little tools, big ideas**  
-I love building tools that make my own development workflow a little easier.
+- 🛠️ **Little tools, big ideas** — Making my development workflow a little easier, one helper at a time.
+- 🎨 **Code with personality** — Useful software can be thoughtful, playful, and pretty, too.
+- 🧪 **Learning by building** — Experiment, understand, break things, fix them, improve them.
+- 💡 **Unexpected side quests** — Not every idea needs to become a project. Some are simply fun to explore.
 
-🎨 **Code with personality**  
-Functionality matters. But why shouldn't software be pretty, cozy, and fun to use, too?
+<p align="center">
+  <img src="assets/cozy-divider.svg" width="210" alt="A pink flower, turquoise and lilac sparkles, a pink heart, and one more turquoise sparkle" />
+</p>
 
-📚 **Learning by building**  
-I learn best when I can experiment, understand how something works, break it, fix it, and improve it.
+## 🎮 Current quests
 
-💡 **Unexpected side quests**  
-Not every idea needs to become a project. But some ideas are simply too interesting to ignore.
+- **🛠️ Building:** [kat-create](https://github.com/kattykit1991/kat-create) — my own little project-starter CLI.
+- **🎨 Tinkering:** KATCODED Dev Tools, reusable templates, and cozy style foundations.
+- **🏡 Dreaming:** **KATUARY** — a cozy personal workspace for organizing projects, ideas, creative worlds, and everyday life. *Still a concept, not a released app.*
 
----
+*Quest board subject to spontaneous inspiration and occasional detours.* 👻
 
-## 🛠️ My Developer Toolbox
-
-**Languages:** TypeScript · JavaScript · HTML · CSS
-
-**Frameworks & Runtime:** React · Vite · Node.js
-
-**Tools:** Git · GitHub · VS Code
-
-*Always learning. Always experimenting. Occasionally wondering why something works.*
-
----
+<p align="center">
+  <img src="assets/cozy-divider.svg" width="210" alt="A pink flower, turquoise and lilac sparkles, a pink heart, and one more turquoise sparkle" />
+</p>
 
 ## 👻 From my little workshop
 
-### [kat-create](https://github.com/kattykit1991/kat-create)
+### 🛠️ [kat-create](https://github.com/kattykit1991/kat-create)
+**TypeScript · Node.js · CLI · Early prototype**
 
-My personal TypeScript CLI for setting up new coding projects with my own developer templates.
+A tiny command-line tool that creates project folders and brings my own developer templates along for the ride — including a place to track project requirements.
 
-Because apparently, building projects wasn't enough.
+Because apparently, building projects wasn't enough. I also wanted to build the tool that helps me start them. 🥔
 
-I also wanted to build the tool that helps me start them. 🥔
+### 🎨 KATCODED Dev Tools & Style System
+**Personal toolkit · Templates · Design foundations**
 
-### KATCODED Dev Tools & Style System
-
-My growing collection of personal development workflows, reusable templates, design foundations, and little helpers.
-
-Built around one simple idea:
+A growing set of development workflows, reusable documentation, and cozy visual foundations. These are parts of my personal setup, not a separate public repository showcase (yet).
 
 **Tools should support the creative process, not get in its way.**
 
-### 🏡 KATUARY — A little dream in progress
+<p align="center">
+  <img src="assets/cozy-divider.svg" width="210" alt="A pink flower, turquoise and lilac sparkles, a pink heart, and one more turquoise sparkle" />
+</p>
 
-*Your Cozy Personal Workspace.*
+## 🛠️ My developer toolbox
 
-A private, cozy command center for organizing projects, plans, ideas, creative worlds, and everyday life.
+**Languages:** TypeScript · JavaScript · HTML · CSS  
+**Frameworks & runtime:** React · Vite · Node.js  
+**Everyday companions:** VS Code · Git · GitHub
 
-Still taking shape — but definitely one of my bigger dreams.
+*Always learning. Always experimenting. Occasionally wondering why something works.*
 
----
+<p align="center">
+  <img src="assets/cozy-divider.svg" width="210" alt="A pink flower, turquoise and lilac sparkles, a pink heart, and one more turquoise sparkle" />
+</p>
 
 ## 🌍 A little language note
 
 katc()ded speaks both **English and German**.
 
-Sometimes documentation is German. Sometimes projects are English. Sometimes my brain switches languages halfway through a thought.
+Code might be English. Documentation might be German. My brain sometimes switches languages halfway through a thought.
 
 Consider yourself warned. 💜
 
