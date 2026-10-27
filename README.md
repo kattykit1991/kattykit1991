@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="katcoded-header.png" alt="katc()ded — Pixelkat, Plöpp, Floof und Nibbs im cozy developer pillow fort" width="100%" />
+</p>
+
 # 👻 Welcome to katc()ded!
 
 *My little developer pillow fort — built with curiosity, creativity & cozy chaos.* 💜
